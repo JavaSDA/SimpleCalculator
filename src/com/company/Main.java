@@ -8,7 +8,7 @@ public class Main {
         int secondNumber;
         int answer;
 
-        // Number initialized
+        // Number initialize
         firstNumber = 5;
         secondNumber = 7;
         answer = 0;
